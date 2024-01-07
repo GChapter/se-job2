@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-key */
 "use server"
 
 import { createClient } from '@/utils/supabase/server';
