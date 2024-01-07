@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-key */
 "use client";
 
 import { getJobDetail, getRelatedJob } from "@/components/controller";
